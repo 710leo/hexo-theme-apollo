@@ -1,8 +1,8 @@
 menu:
     Blog: /
     Archive: /archives/
-    Weibo: http://weibo.com/sunchongsheng
-    GitHub: https://github.com/pinggod
+    Weibo: http://weibo.com/710x710
+    GitHub: https://github.com/710leo
     Rss: /atom.xml
 
 favicon: /favicon.png
@@ -10,15 +10,15 @@ logo: /favicon.png
 
 # Comment
 # e.g disqus: seansun
-disqus:
+disqus: 710leo
 duoshuo: 
 
 # Analytics
 # google-analytics:
-ga: UA-65933410-1
+ga: UA-54783341-1
 
 # Copyright Infomation
-startyear: 2015
+startyear: 2014
 
 # Font CDN
 #true : use google fonts api, not stable for chinese visitor sometimes, caused by force majeure factor
